@@ -63,7 +63,7 @@ También, modificamos la función **animate()**, encargada de darle movimiento a
 + Una vez terminado todo el árbol, nos pusimos a hacer el menú de inicio.
 
 
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.JPG" width="500"/>
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.png" width="500"/>
  AQUI VA UNAS IMAGENES DEL CODIGO DE TU MENÚ
  Y UNA BREVE EXPLICACIÓN
 
