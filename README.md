@@ -65,14 +65,16 @@ En el Menu esta compuesto por 4 opciones que son: <br>
 <p align="center" >
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.png" width="800"/>
 </p>
-        <tr>1. Ver controles.<tr>
-        <br>Donde estan todos las teclas que se utilzan para el movimiento de las camaras en los eje x, y ,z y moverse. <br>
+
+        1. Ver controles.
+        Donde estan todos las teclas que se utilzan para el movimiento de las camaras en los eje x, y ,z y moverse.
 <p align="center" >
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.PNG" width="800"/>
 </p>
-        <tr>2. Modificación de variables<tr>
-        <br>En este parte del menu podemos modificar las variables:<br>
-        tamaño de arbol con un maximo de 8 <br>
+
+        2. Modificación de variables
+        En este parte del menu podemos modificar las variables:
+        tamaño de arbol con un maximo de 8 
         ancho del arbol
 
 
