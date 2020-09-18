@@ -64,18 +64,23 @@ También, modificamos la función **animate()**, encargada de darle movimiento a
 
 
 
+ AQUI VA UNAS IMAGENES DEL CODIGO DE TU MENÚ
+ Y UNA BREVE EXPLICACIÓN
 
 
 
 
++ Para puntos extras decidimos hacer el mismo proyecto en processing
 
-
+ AQUI VA UNA EXPLICACIÓN MEDIANAMENTE LARGA DE LA TRADUCCIÓN DE OPENGL A PROCESSING
+ Y UNA IMAGEN DE LA SALIDA
 
 
 
 **SALIDA**
-<p align="center">
- <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Salida1.JPG" title="Profundidad 6" />
+
+<p align="center" title="Profundidad 6">
+ <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Salida1.JPG"  />
 </p>
 
 
