@@ -33,7 +33,13 @@ Para dibujar, los elementos, hemos hecho uso de _GL_LINES_ y _GL_TRIANGLES_, par
 
 + Lo prmero que hicimos fué intentar crear un arbol más realista, y que encuadrase bien con la pantalla. Si mira la siguiente imagen ve como realmente finaliza la ejecución: [Imagen final Erik-Paluka.](https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/2.Erik.JPG)
 Por lo que modificamos la intensidad de los colores **(ambient, difusse, specular)**, el tamaño de la ventana, y los carácteres que se añadirían en cada iteración.
+
         1. Al inicio: **"D[LXV]D[RXV]LX"**
         2. Ahora: **"DD[RVXVRV]DD[RVXVLV]LVX"**. -->También hemos añadido más posibles formas, para que no siempre queden iguales.
+
++ Luego le introducimos las texturas, una para la hoja, otra para el suelo y otra para el tronco y ramas, y esta ultima como ya he explicado no queda muy realista.
+Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositorio.
+
+        1. [Tronco/Rama.](
 
 
