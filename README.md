@@ -13,7 +13,8 @@
 
 
 
-**CAMBIOS**
+
+**Estudio del proyecto**
 
 Una vez cogido el proyector como base, hemos estudiado su código para entender su funcionamiento, el cuál consiste en utilizar un string, e ir sustituyendo o añadiendo caracteres para darle forma a un árbol, en el que cada carácter llamada a una función determinada:
 1. X: Inicio 
@@ -21,9 +22,19 @@ Una vez cogido el proyector como base, hemos estudiado su código para entender 
 3. V: Hoja
 4. R: Rotación hacia la derecha
 5. L: Rotación hacia la izquierda
-6. [: push()
-7. ]: pop()
+6. [: push() --> Modificamos el grosor de las ramas/tronco y glPushMatrix()
+7. ]: pop()  --> Modificamos el grosor de las ramas/tronco y glPopMatrix()
+
+Para dibujar, los elementos, hemos hecho uso de _GL_LINES_ y _GL_TRIANGLES_, para el tronco y ramas, y para el suelo y hojas, respectivamente, Para asi manejar ambos modos, algo que obviamente afecta al resultado final pues _GL_LINES_, no permite bien usar texturas, y que el grosor, es el grosor de una línea, por lo que no queda muy realista. Pero hemos creído que era mejor trabajar con ambos métodos, también pensamos en utilizar _GL_POLYGON_ para el suelo, pero era muy poca cosa.
 
 
 
-utilizando _GL_LINES_ y _GL_TRIANGLES_
+**CAMBIOS**
+
+1. Lo prmero que hicimos fué intentar crear un arbol más realista, y que encuadrase bien con la pantalla. Si mira la siguiente imagen ve como realmente finaliza la ejecución: [Imagen final Erik-Paluka.](https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/2.Erik.JPG).
+Por lo que modificamos la intensidad de los colores **(ambient, difusse, specular)**, el tamaño de la ventana, y los carácteres que se añadirían en cada iteración.
+        Al inicio: "D[LXV]D[RXV]LX"
+        Ahora: "DD[RVXVRV]DD[RVXVLV]LVX"
+También hemos añadido más posibles formas, para que no siempre queden iguales.
+
+
