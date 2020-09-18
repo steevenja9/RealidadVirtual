@@ -37,6 +37,9 @@ Por lo que modificamos la intensidad de los colores **(ambient, difusse, specula
         1. Al inicio: **"D[LXV]D[RXV]LX"**
         2. Ahora: **"DD[RVXVRV]DD[RVXVLV]LVX"**. -->También hemos añadido más posibles formas, para que no siempre queden iguales.
 
+
+
+
 + Luego le introducimos las texturas, una para la hoja, otra para el suelo y otra para el tronco y ramas, y esta ultima como ya he explicado no queda muy realista.
 Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositorio.
 
@@ -44,12 +47,19 @@ Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositor
         2. [Hoja.]()
         3. [Suelo.]()
         
+        
+    
+    
 + Añadimos más funcionalidades a la cámara, más opciones en el keyboard ya creado, y un nuevo keyboard especial dedicado a las teclas de las flechas.
 
         1. Ahora                                                                 2. Antes
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Modificacion_Keyboard.JPG" width="500"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Erik.JPG" width="500"/><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Flechas.JPG"/>
 
+También, modificamos la función **animate()**, encargada de darle movimiento al arbol para simular el viento, pero eran movimientos muy bruscos y muy lentos cuando crecía más nuestro árbol, por lo que modificamos el rango de movimiento, y también limitamos el número de niveles de crecimiento del árbol, pues empieza a renlentizarse el proyecto.
 
 
+
+
++ Una vez terminado todo el árbol, nos pusimos a hacer el menú de inicio.
 
 
