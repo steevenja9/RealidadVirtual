@@ -1,12 +1,13 @@
 # RealidadVirtual
 
-Grupo 3 personas: Jesús Delgado Jiménez, Jaime Steeven , Tomás -m
-Proyecto:           L-System
-        Consiste en un fork del siguiente proyecto: https://github.com/paluka/L-Systems-OpenGL
-        Requisitos: freeglut.lib y glew32.lib
-        Salida: 
+**Grupo 3 personas:** Jesús Delgado Jiménez, Jaime Steeven , Tomás
+
+**Proyecto:**           **_L-System_**
+        Consiste en un fork del siguiente proyecto: [Proyecto Erik Paluka.](https://github.com/paluka/L-Systems-OpenGL)
         
-        
-        <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/1.Erik.JPG" />
+ *Requisitos:* freeglut.lib y glew32.lib
+ *Salida:*     
+ 
+  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/1.Erik.JPG" />
 
 
