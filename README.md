@@ -54,7 +54,7 @@ Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositor
 + Añadimos más funcionalidades a la cámara, más opciones en el keyboard ya creado, y un nuevo keyboard especial dedicado a las teclas de las flechas.
 
         1. Ahora                                                                 2. Antes
- <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Modificacion_Keyboard.JPG" width="450"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Erik.JPG" width="450"/><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Flechas.JPG"/>
+ <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Modificacion_Keyboard.JPG" width="400"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Erik.JPG" width="400"/><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Flechas.JPG"/>
 
 También, modificamos la función **animate()**, encargada de darle movimiento al arbol para simular el viento, pero eran movimientos muy bruscos y muy lentos cuando crecía más nuestro árbol, por lo que modificamos el rango de movimiento, y también limitamos el número de niveles de crecimiento del árbol, pues empieza a renlentizarse el proyecto.
 
