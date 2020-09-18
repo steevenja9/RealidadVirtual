@@ -64,6 +64,10 @@ También, modificamos la función **animate()**, encargada de darle movimiento a
 
 
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.png" width="800"/>
+En el menu hemos puesto 4 opciones que son:
+1. Ver controles.
+Donde estan todos las teclas que se utilzan para el movimiento de las camaras y para  moverse en el arbol
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.png" width="800"/>
  AQUI VA UNAS IMAGENES DEL CODIGO DE TU MENÚ
  Y UNA BREVE EXPLICACIÓN
 
