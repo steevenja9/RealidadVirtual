@@ -63,3 +63,19 @@ También, modificamos la función **animate()**, encargada de darle movimiento a
 + Una vez terminado todo el árbol, nos pusimos a hacer el menú de inicio.
 
 
+
+
+
+
+
+
+
+
+
+
+** SALIDA **
+
+        <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/1.Erik.JPG" />
+
+
+
