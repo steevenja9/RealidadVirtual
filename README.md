@@ -67,9 +67,10 @@ En el Menu esta compuesto por 4 opciones que son:
 </p>
 
         1. Ver controles.
-        Donde estan todos las teclas que se utilzan para el movimiento de las camaras en los eje x, y ,z y moverse.
+        Donde estan todos las teclas que se utilzan para el movimiento de las camaras 
+        en los eje x, y ,z y moverse.
 <p align="center">
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.PNG" width="600"/>
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.PNG" />
 </p>
 
         2. Modificación de variables
