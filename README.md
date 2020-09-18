@@ -63,7 +63,7 @@ También, modificamos la función **animate()**, encargada de darle movimiento a
 
 En el Menu esta compuesto por 4 opciones que son:
 
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.png" width="600"/>
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.png" />
 
         1. Ver controles.
         Donde estan todos las teclas que se utilzan para el movimiento de las camaras en los eje x, y ,z y moverse.
