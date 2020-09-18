@@ -34,8 +34,9 @@ Para dibujar, los elementos, hemos hecho uso de _GL_LINES_ y _GL_TRIANGLES_, par
 + Lo primero que hicimos fué intentar crear un arbol más realista, y que encuadrase bien con la pantalla. Si mira la siguiente imagen ve como realmente finaliza la ejecución: [Imagen final Erik-Paluka.](https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/2.Erik.JPG)
 Por lo que modificamos la intensidad de los colores **(ambient, difusse, specular)**, el tamaño de la ventana, y los carácteres que se añadirían en cada iteración.
 
-        1. Al inicio: **"D[LXV]D[RXV]LX"**
-        2. Ahora: **"DD[RVXVRV]DD[RVXVLV]LVX"**. -->También hemos añadido más posibles formas, para que no siempre queden iguales.
+        1. Al inicio: "D[LXV]D[RXV]LX".
+        2. Ahora: "DD[RVXVRV]DD[RVXVLV]LVX". 
+        También hemos añadido más posibles formas, para que no siempre queden iguales.
 
 
 
@@ -53,22 +54,26 @@ Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositor
 + Añadimos más funcionalidades a la cámara, más opciones en el keyboard ya creado, y un nuevo keyboard especial dedicado a las teclas de las flechas.
 
         1. Ahora                                                                 2. Antes
- <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Modificacion_Keyboard.JPG" width="500"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Erik.JPG" width="500"/><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Flechas.JPG"/>
+ <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Modificacion_Keyboard.JPG" width="450"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Erik.JPG" width="450"/><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Flechas.JPG"/>
 
 También, modificamos la función **animate()**, encargada de darle movimiento al arbol para simular el viento, pero eran movimientos muy bruscos y muy lentos cuando crecía más nuestro árbol, por lo que modificamos el rango de movimiento, y también limitamos el número de niveles de crecimiento del árbol, pues empieza a renlentizarse el proyecto.
 
 
 + Una vez terminado todo el árbol, nos pusimos a hacer el menú de inicio.
 
-En el Menu esta compuesto por 4 opciones que son: <br>
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.png" width="800"/>
- 1. Ver controles. <br>
- Donde estan todos las teclas que se utilzan para el movimiento de las camaras en los eje x, y ,z y moverse <br>
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.PNG" width="800"/>
-2. Modificacion de variables<br>
-En este parte del menu podemos modificar las variables:<br>
-tamaño de arbol con un maximo de 8 <br>
-ancho del arbol
+En el Menu esta compuesto por 4 opciones que son:
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.png" />
+
+        1. Ver controles.
+        Donde estan todos las teclas que se utilzan para el movimiento de las camaras en los eje x, y ,z y moverse.
+
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.PNG" width="600"/>
+
+
+        2. Modificación de variables
+        En este parte del menu podemos modificar las variables:
+        tamaño de arbol con un maximo de 8 
+        ancho del arbol
 
 
 + Para puntos extras decidimos hacer el mismo proyecto en processing
@@ -77,6 +82,12 @@ ancho del arbol
  Y UNA IMAGEN DE LA SALIDA
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **SALIDA**
 
