@@ -34,9 +34,9 @@ Para dibujar, los elementos, hemos hecho uso de _GL_LINES_ y _GL_TRIANGLES_, par
 + Lo primero que hicimos fué intentar crear un arbol más realista, y que encuadrase bien con la pantalla. Si mira la siguiente imagen ve como realmente finaliza la ejecución: [Imagen final Erik-Paluka.](https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/2.Erik.JPG)
 Por lo que modificamos la intensidad de los colores **(ambient, difusse, specular)**, el tamaño de la ventana, y los carácteres que se añadirían en cada iteración.
 
-        1. Al inicio: **"D[LXV]D[RXV]LX"**
-        2. Ahora: **"DD[RVXVRV]DD[RVXVLV]LVX"**. 
-También hemos añadido más posibles formas, para que no siempre queden iguales.
+        1. Al inicio: "D[LXV]D[RXV]LX".
+        2. Ahora: "DD[RVXVRV]DD[RVXVLV]LVX". 
+        También hemos añadido más posibles formas, para que no siempre queden iguales.
 
 
 
@@ -61,7 +61,7 @@ También, modificamos la función **animate()**, encargada de darle movimiento a
 
 + Una vez terminado todo el árbol, nos pusimos a hacer el menú de inicio.
 
-En el Menu esta compuesto por 4 opciones que son: <br>
+En el Menu esta compuesto por 4 opciones que son:
 <p align="center" >
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.png" width="800"/>
 </p>
@@ -78,11 +78,6 @@ En el Menu esta compuesto por 4 opciones que son: <br>
         ancho del arbol
 
 
-
-<br>
-<br>
-<br>
-<br>
 + Para puntos extras decidimos hacer el mismo proyecto en processing
 
  AQUI VA UNA EXPLICACIÓN MEDIANAMENTE LARGA DE LA TRADUCCIÓN DE OPENGL A PROCESSING
@@ -90,16 +85,9 @@ En el Menu esta compuesto por 4 opciones que son: <br>
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **SALIDA**
-<br>
-<br>
+
 <p align="center" title="Profundidad 6">
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Salida1.JPG"  />
 </p>
