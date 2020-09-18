@@ -36,7 +36,7 @@ Por lo que modificamos la intensidad de los colores **(ambient, difusse, specula
 
         1. Al inicio: **"D[LXV]D[RXV]LX"**
         2. Ahora: **"DD[RVXVRV]DD[RVXVLV]LVX"**. 
-<br><tr>También hemos añadido más posibles formas, para que no siempre queden iguales.<tr><br>
+<tr>También hemos añadido más posibles formas, para que no siempre queden iguales.<tr>
 
 
 
