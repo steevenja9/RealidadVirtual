@@ -64,10 +64,14 @@ También, modificamos la función **animate()**, encargada de darle movimiento a
 
 
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.png" width="800"/>
-+En el Menu esta compuesto por 4 opciones que son:
- 1. Ver controles.
- Donde estan todos las teclas que se utilzan para el movimiento de las camaras y para  moverse en el arbol
+En el Menu esta compuesto por 4 opciones que son: <br>
+ 1. Ver controles. <br>
+ Donde estan todos las teclas que se utilzan para el movimiento de las camaras en los eje x, y ,z y moverse <br>
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.PNG" width="800"/>
+2. Modificacion de variables<br>
+En este parte del menu podemos modificar las variables:<br>
+tamaño de arbol con un maximo de 8 <br>
+ancho del arbol
 
 
 
