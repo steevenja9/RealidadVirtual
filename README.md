@@ -35,7 +35,7 @@ Para dibujar, los elementos, hemos hecho uso de _GL_LINES_ y _GL_TRIANGLES_, par
 Por lo que modificamos la intensidad de los colores **(ambient, difusse, specular)**, el tamaño de la ventana, y los carácteres que se añadirían en cada iteración.
 
         1. Al inicio: **"D[LXV]D[RXV]LX"**
-        2. Ahora: **"DD[RVXVRV]DD[RVXVLV]LVX"**. -->También hemos añadido más posibles formas, para que no siempre queden iguales.
+        2. Ahora: **"DD[RVXVRV]DD[RVXVLV]LVX"**. <br>También hemos añadido más posibles formas, para que no siempre queden iguales.
 
 
 
@@ -64,15 +64,16 @@ En el Menu esta compuesto por 4 opciones que son: <br>
 <p align="center" >
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.png" width="800"/>
 </p>
-1. Ver controles. <br>
-Donde estan todos las teclas que se utilzan para el movimiento de las camaras en los eje x, y ,z y moverse <br>
+
+        1. Ver controles. <br>
+        Donde estan todos las teclas que se utilzan para el movimiento de las camaras en los eje x, y ,z y moverse <br>
 <p align="center" >
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.PNG" width="800"/>
 </p>
-2. Modificación de variables<br>
-En este parte del menu podemos modificar las variables:<br>
-tamaño de arbol con un maximo de 8 <br>
-ancho del arbol
+        2. Modificación de variables<br>
+        En este parte del menu podemos modificar las variables:<br>
+        tamaño de arbol con un maximo de 8 <br>
+        ancho del arbol
 
 
 
