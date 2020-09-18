@@ -64,9 +64,8 @@ En el Menu esta compuesto por 4 opciones que son: <br>
 <p align="center" >
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.png" width="800"/>
 </p>
-
-        1. Ver controles. <br>
-        Donde estan todos las teclas que se utilzan para el movimiento de las camaras en los eje x, y ,z y moverse <br>
+        1. Ver controles.<br>
+        Donde estan todos las teclas que se utilzan para el movimiento de las camaras en los eje x, y ,z y moverse. <br>
 <p align="center" >
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.PNG" width="800"/>
 </p>
@@ -77,13 +76,22 @@ En el Menu esta compuesto por 4 opciones que son: <br>
 
 
 
-
+<br>
+<br>
+<br>
 + Para puntos extras decidimos hacer el mismo proyecto en processing
 
  AQUI VA UNA EXPLICACIÓN MEDIANAMENTE LARGA DE LA TRADUCCIÓN DE OPENGL A PROCESSING
  Y UNA IMAGEN DE LA SALIDA
 
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **SALIDA**
 
