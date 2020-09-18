@@ -35,7 +35,8 @@ Para dibujar, los elementos, hemos hecho uso de _GL_LINES_ y _GL_TRIANGLES_, par
 Por lo que modificamos la intensidad de los colores **(ambient, difusse, specular)**, el tamaño de la ventana, y los carácteres que se añadirían en cada iteración.
 
         1. Al inicio: **"D[LXV]D[RXV]LX"**
-        2. Ahora: **"DD[RVXVRV]DD[RVXVLV]LVX"**. <br>También hemos añadido más posibles formas, para que no siempre queden iguales.<br>
+        2. Ahora: **"DD[RVXVRV]DD[RVXVLV]LVX"**. 
+<br><tr>También hemos añadido más posibles formas, para que no siempre queden iguales.<tr><br>
 
 
 
