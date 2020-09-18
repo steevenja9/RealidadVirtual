@@ -58,13 +58,10 @@ Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositor
 También, modificamos la función **animate()**, encargada de darle movimiento al arbol para simular el viento, pero eran movimientos muy bruscos y muy lentos cuando crecía más nuestro árbol, por lo que modificamos el rango de movimiento, y también limitamos el número de niveles de crecimiento del árbol, pues empieza a renlentizarse el proyecto.
 
 
-
-
 + Una vez terminado todo el árbol, nos pusimos a hacer el menú de inicio.
 
-
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.png" width="800"/>
 En el Menu esta compuesto por 4 opciones que son: <br>
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.png" width="800"/>
  1. Ver controles. <br>
  Donde estan todos las teclas que se utilzan para el movimiento de las camaras en los eje x, y ,z y moverse <br>
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.PNG" width="800"/>
@@ -72,9 +69,6 @@ En el Menu esta compuesto por 4 opciones que son: <br>
 En este parte del menu podemos modificar las variables:<br>
 tamaño de arbol con un maximo de 8 <br>
 ancho del arbol
-
-
-
 
 
 + Para puntos extras decidimos hacer el mismo proyecto en processing
