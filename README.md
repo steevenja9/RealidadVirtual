@@ -75,7 +75,7 @@ También, modificamos la función **animate()**, encargada de darle movimiento a
 
 ** SALIDA **
 
-        <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/1.Erik.JPG" />
+ <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Salida1.JPG" />
 
 
 
