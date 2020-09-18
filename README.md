@@ -62,13 +62,15 @@ También, modificamos la función **animate()**, encargada de darle movimiento a
 + Una vez terminado todo el árbol, nos pusimos a hacer el menú de inicio.
 
 En el Menu esta compuesto por 4 opciones que son:
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/menu.png" />
+<p align="center">
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/MenuInicio.JPG" />
+</p>
 
         1. Ver controles.
         Donde estan todos las teclas que se utilzan para el movimiento de las camaras en los eje x, y ,z y moverse.
-
+<p align="center">
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.PNG" width="600"/>
-
+</p>
 
         2. Modificación de variables
         En este parte del menu podemos modificar las variables:
