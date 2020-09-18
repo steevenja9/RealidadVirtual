@@ -74,8 +74,8 @@ También, modificamos la función **animate()**, encargada de darle movimiento a
 
 
 **SALIDA**
-
+<p align="center">
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Salida1.JPG" title="Profundidad 6" />
-
+</p>
 
 
