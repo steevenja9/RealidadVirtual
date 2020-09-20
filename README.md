@@ -73,16 +73,14 @@ En el Menu esta compuesto por 4 opciones que son:
 
         2. Modificación de variables
         En este parte del menu podemos modificar las variables:
-        Tamaño de arbol con un maximo de 8 
-        Ancho del arbol
-        Quitar las hojas
-        Color del tronco
-        Color de las hojas
+        1) Tamaño de arbol con un maximo de 8 
+        2) Ancho del arbol
+        3)Quitar las hojas
+        4) Color del tronco
+        5) Color de las hojas
         
         
 
-
-+ Para puntos extras decidimos hacer el mismo proyecto en processing
 
 
 <br>
