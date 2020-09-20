@@ -1,6 +1,6 @@
 # RealidadVirtual
 
-**Grupo 3 personas:** Jesús Delgado Jiménez, Jaime Steeven , Tomás
+**Grupo 3 personas:** Jesús Delgado Jiménez, Jaime Steeven Puerta Martinez , Tomás Iglesias
 
 **Proyecto:**           **_L-System_**
         Consiste en un fork del siguiente proyecto: [Proyecto Erik Paluka.](https://github.com/paluka/L-Systems-OpenGL)
