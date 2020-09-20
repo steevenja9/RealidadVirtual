@@ -73,14 +73,16 @@ En el Menu esta compuesto por 4 opciones que son:
 
         2. Modificación de variables
         En este parte del menu podemos modificar las variables:
-        tamaño de arbol con un maximo de 8 
-        ancho del arbol
+        Tamaño de arbol con un maximo de 8 
+        Ancho del arbol
+        Quitar las hojas
+        Color del tronco
+        Color de las hojas
+        
+        
 
 
 + Para puntos extras decidimos hacer el mismo proyecto en processing
-
- AQUI VA UNA EXPLICACIÓN MEDIANAMENTE LARGA DE LA TRADUCCIÓN DE OPENGL A PROCESSING
- Y UNA IMAGEN DE LA SALIDA
 
 
 <br>
