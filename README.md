@@ -79,6 +79,18 @@ configuramos la iluminación que tendrá en la escena y la textura y por último
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 La otra función que hemos añadido para tratar nuestro árbol es leaf(), con la que configuramos todo lo relacionado con las hojas. Al principio, igual que en el método
 anterior, tenemos las distintas configuraciones para colorear las hojas, después tratamos la iluminación y las texturas, todo esto podemos verlo en la primera captura, 
