@@ -93,7 +93,7 @@ El Menú esta compuesto por 4 opciones que son:
  son un tamaño de árbol de 8, una anchura de 5.7 y árbol CON hojas. 
  
  
- <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ColorTronco.JPG" width="300"/>  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ColorHojas.JPG" width="500"/>
+ <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ColorTronco.JPG" width="300"/>  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ColorHojas.JPG" width="300"/>
  
  Vamos a ver las variables que usamos y como trabaja cada opción de este submenú con la siguiente imagen (siguen el mismo orden que la imagen anterior donde 
  mostramos el menú).
