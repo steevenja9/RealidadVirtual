@@ -66,7 +66,7 @@ También, modificamos la función **animate()**, encargada de darle movimiento a
 La función drawLine() es la que nos permite crear toda la estructura del tronco del árbol. Al principio declaramos los valores para obtener los distintos colores entre 
 los que podemos elegir, después configuramos la iluminación que tendrá en la escena y la textura y por último la forma en la que se dibujará.
 
-<p align="center">
+<p align="right">
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoTronco.JPG" />
 </p>
 
