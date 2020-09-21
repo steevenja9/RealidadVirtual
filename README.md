@@ -111,7 +111,7 @@ anterior, tenemos las distintas configuraciones para colorear las hojas, despué
 mientras que, en la segunda podemos ver como le damos la forma a las hojas que aparecerán en nuestro dibujo.
 
 <p align="center">
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas1.JPG" width="400"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas2.JPG" width="400"/>
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas1.JPG" width="500"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas2.JPG" width="300"/>
 </p>
 
 + Una vez terminado todo el árbol, nos pusimos a hacer el menú de inicio.
@@ -161,12 +161,18 @@ El Menú esta compuesto por 4 opciones que son:
  Vamos a ver las variables que usamos y como trabaja cada opción de este submenú con la siguiente imagen (siguen el mismo orden que la imagen anterior donde 
  mostramos el menú).
  
- <p align="left">
- <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Funcion%20mvariables.JPG" />Vamos a ver las variables que usamos y como trabaja 
+ <p align="center">
+ <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Funcion%20mvariables.JPG" />
  </p>
  
+<br>
+<br>
+<br>
+<br>
+
         3. Salir
         Esta opción hará que termine la ejecución del programa y este se cierre.
+        
         
         4. Ejecutar
         Al seleccionar esta opción se nos abrirá una nueva ventana que será donde se pintará la escena con los datos que 
