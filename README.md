@@ -197,7 +197,6 @@ El Menú esta compuesto por 4 opciones que son:
 <br>
 <br>
 <br>
-<br>
 
 **SALIDA**
 
