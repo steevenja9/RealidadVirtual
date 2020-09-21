@@ -67,8 +67,9 @@ La otra función que hemos añadido para tratar nuestro árbol es leaf(), con la
 anterior, tenemos las distintas configuraciones para colorear las hojas, después tratamos la iluminación y las texturas, todo esto podemos verlo en la primera captura, 
 mientras que, en la segunda podemos ver como le damos la forma a las hojas que aparecerán en nuestro dibujo.
 
+<p align="center">
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas1.JPG" width="400"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas2.JPG" width="400"/>
-
+</p>
 
 + Una vez terminado todo el árbol, nos pusimos a hacer el menú de inicio.
 
@@ -87,20 +88,23 @@ El Menú esta compuesto por 4 opciones que son:
         2. Modificación de variables
         En este apartado del menú podemos modificar las siguientes variables:
         
+ <p align="center">
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/MVariables.JPG" />
+ </p>
  
  Tanto el color del tronco, como el de las hojas tienen 3 opciones para elegir, siendo la primera de estas la opción por defecto. Las otras opciones por defecto
  son un tamaño de árbol de 8, una anchura de 5.7 y árbol CON hojas. 
  
  <p align="center">
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ColorTronco.JPG" width="300"/>  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ColorHojas.JPG" width="350"/>
-        </p>
+ </p> 
  
  Vamos a ver las variables que usamos y como trabaja cada opción de este submenú con la siguiente imagen (siguen el mismo orden que la imagen anterior donde 
  mostramos el menú).
  
+ <p align="center">
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Funcion%20mvariables.JPG" />
-
+ </p>
         3. Salir
         Esta opción hará que termine la ejecución del programa y este se cierre.
         
