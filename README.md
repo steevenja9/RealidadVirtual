@@ -32,10 +32,6 @@ Para dibujar, los elementos, hemos hecho uso de _GL_LINES_ y _GL_TRIANGLES_, par
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 **CAMBIOS**
 
@@ -70,6 +66,10 @@ Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositor
  </p>
 
 También, modificamos la función **animate()**, encargada de darle movimiento al arbol para simular el viento, pero eran movimientos muy bruscos y muy lentos cuando crecía más nuestro árbol, por lo que modificamos el rango de movimiento, y también limitamos el número de niveles de crecimiento del árbol, pues empieza a relentizarse el proyecto.
+<br>
+<br>
+<br>
+<br>
 
 <p>
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoTronco.JPG" /align="left">
@@ -126,10 +126,9 @@ El Menú esta compuesto por 4 opciones que son:
 </p>
 
         1. Ver controles.
-        Donde podemos ver todas las teclas que se utilizan para el movimiento de las cámaras 
-        en los ejes x, y ,z y para moverse por la escena.
-<br>
-<br>
+        Donde podemos ver todas las teclas que se utilizan 
+        para el movimiento de las cámaras en los ejes
+        x, y ,z y para moverse por la escena.
 <br>
 <br>
 <br>
@@ -142,10 +141,9 @@ El Menú esta compuesto por 4 opciones que son:
  </p>
  
         2. Modificación de variables
-        En este apartado del menú podemos modificar las siguientes variables:
+        En este apartado del menú podemos modificar 
+        las siguientes variables:
         
-<br>
-<br>
 <br>
 <br>
 <br>
