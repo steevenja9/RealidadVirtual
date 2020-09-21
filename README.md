@@ -72,14 +72,14 @@ El Menú esta compuesto por 4 opciones que son:
 
 
         2. Modificación de variables
-        En este parte del menú podemos modificar las variables:
+        En este apartado del menú podemos modificar las siguientes variables:
         1) Tamaño del árbol con un máximo de 8 
         2) Ancho del árbol
         3) Quitar (o no) las hojas
         4) Color del tronco
         5) Color de las hojas
         
-        
+ <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/MVariables.JPG" />
 
 
 
