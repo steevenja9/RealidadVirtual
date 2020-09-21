@@ -5,7 +5,7 @@
 **Proyecto:**           **_L-System_**
         Consiste en un fork del siguiente proyecto: [Proyecto Erik Paluka.](https://github.com/paluka/L-Systems-OpenGL)
         
- *Requisitos:* freeglut.lib y glew32.lib
+ *Requisitos:* freeglut.lib, glew32.lib y FreeImage.lib.
  
  *Salida:*     
  
@@ -41,7 +41,7 @@ Por lo que modificamos la intensidad de los colores **(ambient, difusse, specula
 
 
 
-+ Luego le introducimos las texturas, una para la hoja, otra para el suelo y otra para el tronco y ramas, y esta ultima como ya he explicado no queda muy realista.
++ Luego le introducimos las texturas, una para la hoja, otra para el suelo y otra para el tronco y ramas, esta última como ya hemos explicado no queda muy realista.
 Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositorio.
 
         1. [Tronco/Rama.]()
@@ -56,26 +56,26 @@ Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositor
         1. Ahora                                                                 2. Antes
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Modificacion_Keyboard.JPG" width="400"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Erik.JPG" width="400"/><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Flechas.JPG"/>
 
-También, modificamos la función **animate()**, encargada de darle movimiento al arbol para simular el viento, pero eran movimientos muy bruscos y muy lentos cuando crecía más nuestro árbol, por lo que modificamos el rango de movimiento, y también limitamos el número de niveles de crecimiento del árbol, pues empieza a renlentizarse el proyecto.
+También, modificamos la función **animate()**, encargada de darle movimiento al arbol para simular el viento, pero eran movimientos muy bruscos y muy lentos cuando crecía más nuestro árbol, por lo que modificamos el rango de movimiento, y también limitamos el número de niveles de crecimiento del árbol, pues empieza a relentizarse el proyecto.
 
 
 + Una vez terminado todo el árbol, nos pusimos a hacer el menú de inicio.
 
-En el Menu esta compuesto por 4 opciones que son:
+El Menú esta compuesto por 4 opciones que son:
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/MenuInicio.JPG" />
 
         1. Ver controles.
-        Donde estan todos las teclas que se utilzan para el movimiento de las camaras 
-        en los eje x, y ,z y moverse.
+        Donde están todas las teclas que se utilizan para el movimiento de las cámaras 
+        en los ejes x, y ,z y para moverse por la escena.
 
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.PNG" width="600"/>
 
 
         2. Modificación de variables
-        En este parte del menu podemos modificar las variables:
-        1) Tamaño de arbol con un maximo de 8 
-        2) Ancho del arbol
-        3) Quitar las hojas
+        En este parte del menú podemos modificar las variables:
+        1) Tamaño del árbol con un máximo de 8 
+        2) Ancho del árbol
+        3) Quitar (o no) las hojas
         4) Color del tronco
         5) Color de las hojas
         
