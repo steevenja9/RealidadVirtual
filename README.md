@@ -106,13 +106,19 @@ configuramos la iluminación que tendrá en la escena y la textura y por último
 <br>
 <br>
 
-La otra función que hemos añadido para tratar nuestro árbol es leaf(), con la que configuramos todo lo relacionado con las hojas. Al principio, igual que en el método
-anterior, tenemos las distintas configuraciones para colorear las hojas, después tratamos la iluminación y las texturas, todo esto podemos verlo en la primera captura, 
+La otra función que hemos añadido para tratar nuestro árbol es leaf(), con la que configuramos todo lo relacionado con 
+las hojas. Al principio, igual que en el método anterior, tenemos las distintas configuraciones para colorear 
+las hojas, después tratamos la iluminación y las texturas, todo esto podemos verlo en la primera captura, 
 mientras que, en la segunda podemos ver como le damos la forma a las hojas que aparecerán en nuestro dibujo.
 
 <p align="center">
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas1.JPG" width="500"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas2.JPG" width="300"/>
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas1.JPG" width="500"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas2.JPG" width="320"/>
 </p>
+
+<br>
+<br>
+<br>
+<br>
 
 + Una vez terminado todo el árbol, nos pusimos a hacer el menú de inicio.
 
