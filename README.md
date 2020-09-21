@@ -49,9 +49,10 @@ Por lo que modificamos la intensidad de los colores **(ambient, difusse, specula
 Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositorio.
 
 
-[Tronco/Rama.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/Arbol.jpg).
-[Hoja.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/Hoja.jpg).
-[Suelo.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/cesped.jpg).
+
+1. [Tronco/Rama.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/Arbol.jpg)
+2. [Hoja.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/Hoja.jpg).
+3. [Suelo.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/cesped.jpg).
         
         
     
