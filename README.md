@@ -54,14 +54,18 @@ Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositor
 + Añadimos más funcionalidades a la cámara, más opciones en el keyboard ya creado, y un nuevo keyboard especial dedicado a las teclas de las flechas.
 
         1. Ahora                                                                 2. Antes
- <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Modificacion_Keyboard.JPG" width="400"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Erik.JPG" width="400"/><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Flechas.JPG"/>
+ <p align="center">
+ <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Modificacion_Keyboard.JPG" width="400"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Erik.JPG" width="400"/><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Flechas.JPG" />
+ </p>
 
 También, modificamos la función **animate()**, encargada de darle movimiento al arbol para simular el viento, pero eran movimientos muy bruscos y muy lentos cuando crecía más nuestro árbol, por lo que modificamos el rango de movimiento, y también limitamos el número de niveles de crecimiento del árbol, pues empieza a relentizarse el proyecto.
 
 La función drawLine() es la que nos permite crear toda la estructura del tronco del árbol. Al principio declaramos los valores para obtener los distintos colores entre 
 los que podemos elegir, después configuramos la iluminación que tendrá en la escena y la textura y por último la forma en la que se dibujará.
 
+<p align="center">
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoTronco.JPG" />
+</p>
 
 La otra función que hemos añadido para tratar nuestro árbol es leaf(), con la que configuramos todo lo relacionado con las hojas. Al principio, igual que en el método
 anterior, tenemos las distintas configuraciones para colorear las hojas, después tratamos la iluminación y las texturas, todo esto podemos verlo en la primera captura, 
@@ -105,6 +109,7 @@ El Menú esta compuesto por 4 opciones que son:
  <p align="center">
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Funcion%20mvariables.JPG" />
  </p>
+ 
         3. Salir
         Esta opción hará que termine la ejecución del programa y este se cierre.
         
@@ -124,7 +129,7 @@ El Menú esta compuesto por 4 opciones que son:
 
 **SALIDA**
 
-<p align="center" title="Profundidad 6">
+<p align="center">
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Salida1.JPG"  />
 </p>
 
