@@ -91,6 +91,12 @@ configuramos la iluminación que tendrá en la escena y la textura y por último
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 La otra función que hemos añadido para tratar nuestro árbol es leaf(), con la que configuramos todo lo relacionado con las hojas. Al principio, igual que en el método
 anterior, tenemos las distintas configuraciones para colorear las hojas, después tratamos la iluminación y las texturas, todo esto podemos verlo en la primera captura, 
@@ -107,19 +113,22 @@ El Menú esta compuesto por 4 opciones que son:
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/MenuInicio.JPG" />
 </p>
 
+<p>
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.JPG" /align="right">
+</p>
+
         1. Ver controles.
         Donde podemos ver todas las teclas que se utilizan para el movimiento de las cámaras 
         en los ejes x, y ,z y para moverse por la escena.
-<p align="center">
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.JPG" >
-</p>
 
+ <p>
+ <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/MVariables.JPG" /align="left">
+ </p>
+ 
         2. Modificación de variables
         En este apartado del menú podemos modificar las siguientes variables:
         
- <p align="center">
- <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/MVariables.JPG" />
- </p>
+
  
  Tanto el color del tronco, como el de las hojas tienen 3 opciones para elegir, siendo la primera de estas la opción por defecto. Las otras opciones por defecto
  son un tamaño de árbol de 8, una anchura de 5.7 y árbol CON hojas. 
