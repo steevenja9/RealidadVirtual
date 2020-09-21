@@ -63,12 +63,12 @@ Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositor
 
 También, modificamos la función **animate()**, encargada de darle movimiento al arbol para simular el viento, pero eran movimientos muy bruscos y muy lentos cuando crecía más nuestro árbol, por lo que modificamos el rango de movimiento, y también limitamos el número de niveles de crecimiento del árbol, pues empieza a relentizarse el proyecto.
 
-La función drawLine() es la que nos permite crear toda la estructura del tronco del árbol. Al principio declaramos los valores para obtener los distintos colores entre 
-los que podemos elegir, después configuramos la iluminación que tendrá en la escena y la textura y por último la forma en la que se dibujará.
-
 <p>
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoTronco.JPG" /align="right">
-</p>
+</p>    La función drawLine() es la que nos permite crear toda la estructura del tronco del árbol. Al principio declaramos los valores para obtener los distintos colores entre 
+los que podemos elegir, después configuramos la iluminación que tendrá en la escena y la textura y por último la forma en la que se dibujará.
+
+
 
 La otra función que hemos añadido para tratar nuestro árbol es leaf(), con la que configuramos todo lo relacionado con las hojas. Al principio, igual que en el método
 anterior, tenemos las distintas configuraciones para colorear las hojas, después tratamos la iluminación y las texturas, todo esto podemos verlo en la primera captura, 
