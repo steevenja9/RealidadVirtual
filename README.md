@@ -180,15 +180,15 @@ El Menú esta compuesto por 4 opciones que son:
         
         
         4. Ejecutar
-        Al seleccionar esta opción se nos abrirá una nueva ventana que será donde se pintará la escena con los datos que 
-        hemos introducido o bien con los que vienen por defecto. Una vez en esta pantalla saldremos de ella y volveremos
-        al menú principal pulsando cualquier tecla como hemos visto anteriormente en los controles de la aplicación. 
+        Al seleccionar esta opción se nos abrirá una nueva ventana que será 
+        donde se pintará la escena con los datos que hemos introducido o bien 
+        con los que vienen por defecto. Una vez en esta pantalla saldremos de 
+        ella y volveremos al menú principal pulsando cualquier tecla como hemos
+        visto anteriormente en los controles de la aplicación. 
         
         A continuación mostramos unos ejemplos de la ejecución del programa:
 
-<p align="center">
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ejemplo1.JPG"/><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ejemplo2.JPG"/>
- </p>
+
 
 <br>
 <br>
@@ -198,6 +198,14 @@ El Menú esta compuesto por 4 opciones que son:
 <br>
 
 **SALIDA**
+
+<p align="center">
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ejemplo1.JPG" width="300"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ejemplo2.JPG" width="300"/>
+ </p>
+ 
+ <br>
+ <br>
+
 
 <p align="center">
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Salida1.JPG"  />
