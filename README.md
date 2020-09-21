@@ -202,7 +202,7 @@ El Menú esta compuesto por 4 opciones que son:
 **SALIDA**
 
 <p align="center">
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Arbolsinhojas2.PNG" height="400" width="300"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ejemplo2.JPG" height="400" width="285"/>
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Arbolsinhojas2.PNG" height="400" width="300"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ejemplo2.JPG" height="400" width="300"/>
  </p>
  
  <br>
