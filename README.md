@@ -132,8 +132,6 @@ El Menú esta compuesto por 4 opciones que son:
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.JPG" /align="right">
 </p>
 
-<br>
-<br>
         1. Ver controles.
         Donde podemos ver todas las teclas que se utilizan 
         para el movimiento de las cámaras en los ejes
