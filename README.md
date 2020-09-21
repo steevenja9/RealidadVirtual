@@ -85,9 +85,9 @@ El Menú esta compuesto por 4 opciones que son:
         Esta opción hará que termine la ejecución del programa y este se cierre.
         
         4. Ejecutar
-        Al seleccionar esta opción se nos abrirá una nueva ventana que será donde se pintará la escena con los datos que hemos       
-        introducido o bien con los que vienen por defecto. Una vez en esta pantalla saldremos de ella y volveremos al menú principal 
-        pulsando la tecla 'm' como hemos visto anteriormente en los controles de la aplicación. 
+        Al seleccionar esta opción se nos abrirá una nueva ventana que será donde se pintará la escena con los datos que 
+        hemos introducido o bien con los que vienen por defecto. Una vez en esta pantalla saldremos de ella y volveremos
+        al menú principal pulsando la tecla 'm' como hemos visto anteriormente en los controles de la aplicación. 
         
         A continuación mostramos unos ejemplos de la ejecución del programa:
 
