@@ -50,9 +50,9 @@ Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositor
 
 <br>
 <br>
-        1. [Tronco/Rama.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/Arbol.jpg)
-        2. [Hoja.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/Hoja.jpg)
-        3. [Suelo.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/cesped.jpg)
+        [Tronco/Rama.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/Arbol.jpg)
+        [Hoja.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/Hoja.jpg)
+        [Suelo.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/cesped.jpg)
         
         
     
