@@ -54,8 +54,7 @@ Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositor
 2. [Hoja.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/Hoja.jpg)
 3. [Suelo.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/cesped.jpg)
         
-        
-    
+<br>           
     
 + Añadimos más funcionalidades a la cámara, más opciones en el keyboard ya creado, y un nuevo keyboard especial dedicado a las teclas de las flechas.
 
@@ -133,6 +132,8 @@ El Menú esta compuesto por 4 opciones que son:
 <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Vcontroles.JPG" /align="right">
 </p>
 
+<br>
+<br>
         1. Ver controles.
         Donde podemos ver todas las teclas que se utilizan 
         para el movimiento de las cámaras en los ejes
@@ -152,7 +153,6 @@ El Menú esta compuesto por 4 opciones que son:
         En este apartado del menú podemos modificar 
         las siguientes variables:
         
-<br>
 <br>
 <br>
 <br>
@@ -190,9 +190,6 @@ El Menú esta compuesto por 4 opciones que son:
         
         A continuación mostramos unos ejemplos de la ejecución del programa:
 
-
-
-<br>
 <br>
 <br>
 <br>
