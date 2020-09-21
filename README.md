@@ -55,9 +55,9 @@ Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositor
 
         1. Antes                                                                2. Ahora
  <p align="center">
- <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Erik.JPG" width="450"/><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Modificacion_Keyboard.JPG" width="300"/>
+ <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Erik.JPG" width="450"/><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Modificacion_Keyboard.JPG" width="400"/>
  </p>
- <p align="rigth">
+ <p align="right">
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Flechas.JPG" />
  </p>
 
