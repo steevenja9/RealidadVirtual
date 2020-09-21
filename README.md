@@ -92,9 +92,9 @@ El Menú esta compuesto por 4 opciones que son:
  Tanto el color del tronco, como el de las hojas tienen 3 opciones para elegir, siendo la primera de estas la opción por defecto. Las otras opciones por defecto
  son un tamaño de árbol de 8, una anchura de 5.7 y árbol CON hojas. 
  
- <p align="right">
+ <p align="left">
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ColorTronco.JPG" /> 
-        </p> <p align="left">
+ <p align="right">
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ColorHojas.JPG"/>
 </p>
  
