@@ -109,8 +109,8 @@ El Menú esta compuesto por 4 opciones que son:
  Vamos a ver las variables que usamos y como trabaja cada opción de este submenú con la siguiente imagen (siguen el mismo orden que la imagen anterior donde 
  mostramos el menú).
  
- <p>
- <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Funcion%20mvariables.JPG" / align="left">Vamos a ver las variables que usamos y como trabaja 
+ <p align="left">
+ <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Funcion%20mvariables.JPG" />Vamos a ver las variables que usamos y como trabaja 
  </p>
  
         3. Salir
@@ -119,7 +119,7 @@ El Menú esta compuesto por 4 opciones que son:
         4. Ejecutar
         Al seleccionar esta opción se nos abrirá una nueva ventana que será donde se pintará la escena con los datos que 
         hemos introducido o bien con los que vienen por defecto. Una vez en esta pantalla saldremos de ella y volveremos
-        al menú principal pulsando la tecla 'm' como hemos visto anteriormente en los controles de la aplicación. 
+        al menú principal pulsando cualquier tecla como hemos visto anteriormente en los controles de la aplicación. 
         
         A continuación mostramos unos ejemplos de la ejecución del programa:
 
