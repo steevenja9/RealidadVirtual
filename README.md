@@ -48,11 +48,10 @@ Por lo que modificamos la intensidad de los colores **(ambient, difusse, specula
 + Luego le introducimos las texturas, una para la hoja, otra para el suelo y otra para el tronco y ramas, esta última como ya hemos explicado no queda muy realista.
 Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositorio.
 
-<br>
-<br>
-[Tronco/Rama.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/Arbol.jpg)
-[Hoja.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/Hoja.jpg)
-[Suelo.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/cesped.jpg)
+
+[Tronco/Rama.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/Arbol.jpg).
+[Hoja.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/Hoja.jpg).
+[Suelo.](https://github.com/steevenja9/RealidadVirtual/blob/master/Proyecto/ProyectoL-System(Console)/ProyectoL-System(Console)/Textures/cesped.jpg).
         
         
     
