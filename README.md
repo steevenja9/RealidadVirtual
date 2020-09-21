@@ -112,7 +112,7 @@ las hojas, después tratamos la iluminación y las texturas, todo esto podemos v
 mientras que, en la segunda podemos ver como le damos la forma a las hojas que aparecerán en nuestro dibujo.
 
 <p align="center">
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas1.JPG" width="500"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas2.JPG" width="370"/>
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas1.JPG" width="400"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas2.JPG" width="270"/>
 </p>
 
 <br>
