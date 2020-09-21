@@ -25,7 +25,7 @@ Una vez cogido el proyector como base, hemos estudiado su código para entender 
 6. [: push() --> Modificamos el grosor de las ramas/tronco y glPushMatrix()
 7. ]: pop()  --> Modificamos el grosor de las ramas/tronco y glPopMatrix()
 
-Para dibujar, los elementos, hemos hecho uso de _GL_LINES_ y _GL_TRIANGLES_, para el tronco y ramas, y para el suelo y hojas, respectivamente, Para asi manejar ambos modos, algo que obviamente afecta al resultado final pues _GL_LINES_, no permite bien usar texturas, y que el grosor, es el grosor de una línea, por lo que no queda muy realista. Pero hemos creído que era mejor trabajar con ambos métodos, también pensamos en utilizar _GL_POLYGON_ para el suelo, pero era muy poca cosa.
+Para dibujar, los elementos, hemos hecho uso de _GL_LINES_ y _GL_TRIANGLES_, para el tronco y ramas, y para el suelo y hojas, respectivamente, para asi manejar ambos modos, algo que obviamente afecta al resultado final pues _GL_LINES_, no permite bien usar texturas, y que el grosor, es el grosor de una línea, por lo que no queda muy realista. Pero hemos creído que era mejor trabajar con ambos métodos, también pensamos en utilizar _GL_POLYGON_ para el suelo, pero era muy poca cosa.
 
 
 
