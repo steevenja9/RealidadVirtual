@@ -174,7 +174,7 @@ El Menú esta compuesto por 4 opciones que son:
 <br>
 <br>
 <br>
-<br>
+
         3. Salir
         Esta opción hará que termine la ejecución del programa y este se cierre.
         
@@ -185,6 +185,10 @@ El Menú esta compuesto por 4 opciones que son:
         al menú principal pulsando cualquier tecla como hemos visto anteriormente en los controles de la aplicación. 
         
         A continuación mostramos unos ejemplos de la ejecución del programa:
+
+<p align="center">
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ejemplo1.JPG"/><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ejemplo2.JPG"/>
+ </p>
 
 <br>
 <br>
