@@ -28,6 +28,14 @@ Una vez cogido el proyector como base, hemos estudiado su código para entender 
 Para dibujar, los elementos, hemos hecho uso de _GL_LINES_ y _GL_TRIANGLES_, para el tronco y ramas, y para el suelo y hojas, respectivamente, para asi manejar ambos modos, algo que obviamente afecta al resultado final pues _GL_LINES_, no permite bien usar texturas, y que el grosor, es el grosor de una línea, por lo que no queda muy realista. Pero hemos creído que era mejor trabajar con ambos métodos, también pensamos en utilizar _GL_POLYGON_ para el suelo, pero era muy poca cosa.
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **CAMBIOS**
 
@@ -120,6 +128,14 @@ El Menú esta compuesto por 4 opciones que son:
         1. Ver controles.
         Donde podemos ver todas las teclas que se utilizan para el movimiento de las cámaras 
         en los ejes x, y ,z y para moverse por la escena.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
  <p>
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/MVariables.JPG" /align="left">
@@ -128,7 +144,14 @@ El Menú esta compuesto por 4 opciones que son:
         2. Modificación de variables
         En este apartado del menú podemos modificar las siguientes variables:
         
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
  
  Tanto el color del tronco, como el de las hojas tienen 3 opciones para elegir, siendo la primera de estas la opción por defecto. Las otras opciones por defecto
  son un tamaño de árbol de 8, una anchura de 5.7 y árbol CON hojas. 
