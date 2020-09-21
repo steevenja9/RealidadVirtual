@@ -68,10 +68,10 @@ anterior, tenemos las distintas configuraciones para colorear las hojas, despué
 mientras que, en la segunda podemos ver como le damos la forma a las hojas que aparecerán en nuestro dibujo.
 
 <p align="rigth">
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas1.JPG" />
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas1.JPG" width="400"/>
 </p>
 <p align="left">
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas2.JPG" />
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas2.JPG" width="400"/>
 </p>
 
 
