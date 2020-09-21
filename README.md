@@ -57,7 +57,7 @@ Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositor
     
 + Añadimos más funcionalidades a la cámara, más opciones en el keyboard ya creado, y un nuevo keyboard especial dedicado a las teclas de las flechas.
 
-        1. Antes                                                                2. Ahora
+                                1. Antes                                               2. Ahora
  <p align="center">
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Erik.JPG" width="350"/><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Modificacion_Keyboard.JPG" width="300"/>
  </p>
@@ -112,7 +112,7 @@ las hojas, después tratamos la iluminación y las texturas, todo esto podemos v
 mientras que, en la segunda podemos ver como le damos la forma a las hojas que aparecerán en nuestro dibujo.
 
 <p align="center">
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas1.JPG" width="500"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas2.JPG" width="370"/>
+<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas1.JPG" width="400"/> <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/codigoHojas2.JPG" width="295"/>
 </p>
 
 <br>
@@ -186,12 +186,8 @@ El Menú esta compuesto por 4 opciones que son:
         al menú principal pulsando cualquier tecla como hemos visto anteriormente en los controles de la aplicación. 
         
         A continuación mostramos unos ejemplos de la ejecución del programa:
-        
-<p align="center">
-<img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ejemplo1.JPG" /><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/ejemplo2.JPG" />
- </p>
 
-
+<br>
 <br>
 <br>
 <br>
