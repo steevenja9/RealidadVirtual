@@ -57,7 +57,7 @@ Dichas texturas las podrá encontrar en la carpeta de imagenes de este repositor
     
 + Añadimos más funcionalidades a la cámara, más opciones en el keyboard ya creado, y un nuevo keyboard especial dedicado a las teclas de las flechas.
 
-                                1. Antes                                               2. Ahora
+                                1. Antes                             2. Ahora
  <p align="center">
  <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Keyboard_Erik.JPG" width="350"/><img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Modificacion_Keyboard.JPG" width="300"/>
  </p>
