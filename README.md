@@ -79,7 +79,7 @@ El Menú esta compuesto por 4 opciones que son:
         4) Color del tronco
         5) Color de las hojas
         
- <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/MVariables.JPG" />
+ <img src= "https://github.com/steevenja9/RealidadVirtual/blob/master/Imagenes/Mvariables.JPG" />
 
 
 
